@@ -1,3 +1,56 @@
 #Text{
-   color: red;
+   background-color: yellow;
+   width: 300px;
+   height: 60px;
+   position: absolute;
+   left: 0;
+   padding-top: 40px;
+   padding-left: 100px;
+   margin-left: 20px;
+   border-radius: 30px;
 }
+#Text1{
+   width: 300px;
+   height: 60px;
+   background-color: blue;
+   position: absolute;
+   right: 0;
+   padding-top: 40px;
+   padding-left: 100px;
+   margin-right: 20px;
+   border-radius: 30px;
+   }
+ #Text2{
+    background-color: blueviolet;
+    width: 300px;
+   height: 60px;
+   position: absolute;
+   bottom: 0;
+   padding-top: 40px;
+   padding-left: 100px;
+   margin-left: 20px;
+   border-radius: 30px;
+ }
+
+ #Text3{
+    background-color: palevioletred;
+    width: 300px;
+    height: 60px;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding-top: 40px;
+   padding-left: 100px;
+   margin-right: 20px;
+   border-radius: 30px;
+ }
+
+ .top {
+    border: dashed black 5px;
+    border-radius: 50px;
+    width: 900px;
+    height: 500px;
+    position: relative;
+    background-color: aqua;
+ }
+ 
